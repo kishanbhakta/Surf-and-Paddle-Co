@@ -1,4 +1,5 @@
 /* Header */
+
 header {
     background-image: url("assets/header.jpg");
     background-repeat: no-repeat;
@@ -8,4 +9,16 @@ header {
     margin-right: 67.5px;
     margin-left: 67.5px;
 }
+
+.headingtext {
+    text-align: center;
+    line-height: 522px;
+    width:1301px;
+    color: white;
+    font-size: 42px;
+
+
+
+
+
 
