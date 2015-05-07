@@ -14,8 +14,16 @@ header {
     text-align: center;
     line-height: 522px;
     width:1301px;
+}
+
+h1 {
     color: white;
-    font-size: 42px;
+    font-family: 'Ubuntu', sans-serif;
+    web-kit
+    font-size: 84px;
+    font-weight: 400;
+}
+
 
 
 
