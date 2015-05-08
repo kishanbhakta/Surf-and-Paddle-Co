@@ -1,5 +1,5 @@
 *{
-    border: .0px solid red;
+    border: 0px solid red;
 }
 
 
@@ -106,7 +106,7 @@ h2 {
                   /*Body*/
 
 .mainbody{
-    background-color: green;
+    /*background-color: green;*/
     height: 100.6em;
     margin-top: 0;
     margin-left: auto;
@@ -117,7 +117,7 @@ h2 {
                /*left side*/
 
 section {
-    background-color: yellow;
+    /*background-color: yellow;*/
     width:70%;
     float:left;
 }
@@ -136,7 +136,7 @@ color: #28285E;
 }
 
 a{
-    color: #333399;
+    color: #90909A;
 }
 
 .logo2 > *{
@@ -158,14 +158,14 @@ a{
 }
 
 .date{
-    color: #C8C8D6;
+    color: #90909A;
     margin-left:.6em;
     margin-top:1.02em;
     font-size:1.52em;
 }
 
 .chic{
-    color: #C8C8D6;
+    color: #90909A;
 }
 
 .section1 p{
@@ -176,14 +176,14 @@ a{
     line-height: 1.6em;
 }
 .woah{
-    color: #333399;
+    color: #172E73;
     font-family: "Open Sans", sans-serif;
     font-size: 3em;
-    border-left: .08em sold lightgray;
-    border-color: #C8C8D6;
+    border-left: .08em solid #90909A;
+    padding-left: 0.7em;
 }
 .woah2 {
-    color: #333399;
+    color: #0062A3;
     font-size: 1em;
 }
 
