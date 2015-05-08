@@ -1,5 +1,5 @@
 *{
-    border: 1px solid red;
+    border: .0px solid red;
 }
 
 
@@ -20,6 +20,7 @@ header {
     /*height: 522px;*/
     height: 52.2em;
     /*margin: 0 auto;*/
+    margin-bottom: 6em;
 }
 
 .headingtext {
@@ -107,14 +108,68 @@ h2 {
 .mainbody{
     background-color: green;
     height: 100.6em;
-    margin-top: 7em;
-    margin-left: 19.1em;
-    margin-right: 19.1em;
-
-
-
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
-.h3 {
+               /*left side*/
 
+section {
+    background-color: yellow;
+    width:70%;
+    float:left;
+}
+.h3 {
+font-family: 'Oswald', sans-serif;
+font-size: 7.4em;
+letter-spacing: -.03em;
+color: #28285E;
+}
+
+
+.logo2{
+    margin-top: -1.5em;
+    margin-bottom: 8em;
+}
+
+.logo2 > *{
+    float: left;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 1em;
+    margin-left: 0em;
+}
+
+.avatar1{
+    width:2.6em;
+}
+
+.logotext2{
+    margin-left:.6em;
+    margin-top:1.02em;
+    font-size:1.52em;
+}
+
+.date{
+    margin-left:.6em;
+    margin-top:1.02em;
+    font-size:1.52em;
+}
+
+.section1 p{
+    clear: both;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.7em;
+    margin-bottom: 2em;
+}
+
+
+              /*right side*/
+
+aside {
+    background-color: blue;
+    width:30%;
+    float: right;
 }
