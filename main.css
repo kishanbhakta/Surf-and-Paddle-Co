@@ -111,7 +111,7 @@ h2 {
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 73%;
 }
 
                /*left side*/
@@ -129,9 +129,14 @@ color: #28285E;
 }
 
 
-.logo2{
+.logo2 {
+    color: #333399;
     margin-top: -1.5em;
     margin-bottom: 8em;
+}
+
+a{
+    color: #333399;
 }
 
 .logo2 > *{
@@ -153,9 +158,14 @@ color: #28285E;
 }
 
 .date{
+    color: #C8C8D6;
     margin-left:.6em;
     margin-top:1.02em;
     font-size:1.52em;
+}
+
+.chic{
+    color: #C8C8D6;
 }
 
 .section1 p{
@@ -163,8 +173,19 @@ color: #28285E;
     font-family: "Open Sans", sans-serif;
     font-size: 1.7em;
     margin-bottom: 2em;
+    line-height: 1.6em;
 }
-
+.woah{
+    color: #333399;
+    font-family: "Open Sans", sans-serif;
+    font-size: 3em;
+    border-left: .08em sold lightgray;
+    border-color: #C8C8D6;
+}
+.woah2 {
+    color: #333399;
+    font-size: 1em;
+}
 
               /*right side*/
 
