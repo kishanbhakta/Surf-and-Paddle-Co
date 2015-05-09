@@ -198,6 +198,7 @@ aside {
 .profile{
     width: 30%;
     text-align: center;
+    margin-top: 2em;
 }
 
 .am {
@@ -228,4 +229,9 @@ aside {
 
 .insta{
     float: left;
+}
+
+.adpic{
+    margin-top: 9em;
+    margin-left: 8em;
 }
