@@ -190,7 +190,42 @@ a{
               /*right side*/
 
 aside {
-    background-color: blue;
+    /*background-color: blue;*/
     width:30%;
     float: right;
+}
+
+.profile{
+    width: 30%;
+    text-align: center;
+}
+
+.am {
+    font-size: 2em;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 0.7em;
+    color: #333399;
+}
+
+.tfitabs > *{
+    text-align: center:;
+    font-size: 1.6em;
+    font-family: "Open Sans", sans-serif;
+    list-style-type: none;
+    color: #90909A;
+    margin-right: 1.2em;
+    margin-left: .1em;
+}
+
+.twitter{
+    float: left;
+}
+
+.fb{
+    float: left;
+
+}
+
+.insta{
+    float: left;
 }
