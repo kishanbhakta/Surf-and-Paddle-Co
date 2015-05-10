@@ -112,6 +112,8 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+    border-bottom: .099em solid #90909A;
+    padding-bottom: 8em;
 }
 
                /*left side*/
@@ -189,6 +191,46 @@ a{
 
                 /*Tab Row*/
 
+.tabrow {
+    margin-top: -1.2em;
+    margin-left: -4em;
+    margin-bottom: 7em;
+    float: left;
+}
+
+.comtabs {
+    margin-right: 1em;
+    float: left;
+}
+
+.button {
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14.5px;
+    height: 30px;
+    padding: 0 8px;
+    background-color: #A4B3BE;
+    color: #fff;
+}
+
+.comtabs:hover > .icon {
+    background-color: #083452;
+}
+
+.comtabs:hover > .button {
+    background-color: #196EB1;
+}
+
+.icon {
+    text-align: center;
+    line-height: 30px;
+    background-color: #5E686F;
+    height: 30px;
+    width: 35px;
+    display: inline-block;
+    float: left;
+}
 
 
 
@@ -281,3 +323,7 @@ aside {
     margin-left: 5em;
     font-size: 1.4em;
 }
+
+        /*Pop Post*/
+
+
