@@ -187,6 +187,11 @@ a{
     font-size: 1em;
 }
 
+                /*Tab Row*/
+
+
+
+
               /*right side*/
 
 aside {
@@ -253,4 +258,26 @@ aside {
     margin-top: 5em;
     margin-left: 5.5em;
     width:28em;
+}
+
+.adcap a{
+    position: absolute;
+    margin-top: 0.2em;
+    margin-left:17.6em;
+    font-size: 1.4em;
+}
+
+.rightsidepost h5{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.7em;
+    color: #3982BB;
+    margin-left: 4em;
+    margin-top: 4em;
+
+}
+
+.rightsidepost p{
+    color: #A8B7C2;
+    margin-left: 5em;
+    font-size: 1.4em;
 }
