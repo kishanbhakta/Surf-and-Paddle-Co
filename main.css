@@ -206,10 +206,10 @@ a{
 .button {
     display: inline-block;
     text-align: center;
-    line-height: 30px;
-    font-size: 14.5px;
-    height: 30px;
-    padding: 0 8px;
+    line-height: 2em;
+    font-size: 1.5em;
+    height: 2em;
+    padding: 0 .8em;
     background-color: #A4B3BE;
     color: #fff;
 }
@@ -224,10 +224,10 @@ a{
 
 .icon {
     text-align: center;
-    line-height: 30px;
+    line-height: 3.0em;
     background-color: #5E686F;
-    height: 30px;
-    width: 35px;
+    height: 3.0em;
+    width: 3.5em;
     display: inline-block;
     float: left;
 }
