@@ -111,7 +111,7 @@ h2 {
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
-    width: 73%;
+    width: 70%;
 }
 
                /*left side*/
@@ -132,7 +132,7 @@ color: #28285E;
 .logo2 {
     color: #333399;
     margin-top: -1.5em;
-    margin-bottom: 8em;
+    margin-bottom: 7em;
 }
 
 a{
@@ -195,16 +195,27 @@ aside {
     float: right;
 }
 
-.profile{
-    width: 30%;
-    text-align: center;
+
+.topaside{
+    /*margin-left: 4.2em;*/
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 2em;
 }
+.profilepic{
+    width: 30%;
+    text-align: center;
+    margin-top: 7em;
+    margin-left: 13em;
+}
+
 
 .am {
     font-size: 2em;
     font-family: "Open Sans", sans-serif;
     margin-top: 0.7em;
+    margin-left: 6em;
+    /*margin-left: auto;*/
     color: #333399;
 }
 
@@ -214,25 +225,32 @@ aside {
     font-family: "Open Sans", sans-serif;
     list-style-type: none;
     color: #90909A;
-    margin-right: 1.2em;
+    margin-right: 0.2em;
     margin-left: .1em;
+    /*margin-right: auto;*/
+    /*margin-left: auto;*/
+
 }
 
 .twitter{
     float: left;
+    margin-left: 4em;
 }
 
 .fb{
     float: left;
+    margin-left: 1em
 
 }
 
 .insta{
     float: left;
+    margin-right: 0em;
+    margin-left: 1em;
 }
 
 .adpic{
-    margin-top: 9em;
-    margin-left: 8em;
-    width:27em;
+    margin-top: 5em;
+    margin-left: 5.5em;
+    width:28em;
 }
