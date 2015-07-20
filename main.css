@@ -342,7 +342,11 @@ figure {
   font-size: 8em;
   letter-spacing: -8px;
   width: 100%;
-  margin-left: -10em;
+  /*margin-left: -10em;*/
+}
+
+.postheader {
+    margin-top: 3em;
 }
 
 article {
