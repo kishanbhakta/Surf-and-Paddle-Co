@@ -1,0 +1,6 @@
+{
+  "name": "kishanbhakta-surfandpaddle",
+  "root": "current",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
